@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Statistiques – Quiz Climat</title>
+  <meta name="description" content="Historique de vos parties au quiz climat.">
+  <meta name="author" content="Hadi Assi">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g'%3E%3Cstop offset='0' stop-color='%2308519c'/%3E%3Cstop offset='1' stop-color='%23a50f15'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='16' cy='16' r='15' fill='url(%23g)'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="../js/common.js" defer></script>
+  <script src="../js/statistiques.js" defer></script>
+</head>
+<body>
+  <div class="stripes" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="../index.html"><span class="brand-mark" aria-hidden="true"></span>Quiz Climat</a>
+      <nav class="nav" aria-label="Navigation principale">
+        <a href="../index.html">Jouer</a>
+        <a href="reviser.html">Réviser</a>
+        <a href="statistiques.html" aria-current="page">Statistiques</a>
+        <span id="user-zone"></span>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="page-head">
+      <div class="wrap">
+        <h1>Statistiques</h1>
+        <p class="lead">Vos résultats sont enregistrés dans ce navigateur après chaque partie.</p>
+      </div>
+    </section>
+    <section class="section" style="padding-top: 0;">
+      <div class="wrap">
+        <div id="vide" class="empty" hidden>
+          <p>Vous n’avez pas encore joué de partie.</p>
+          <a class="btn" href="../index.html">Jouer ma première partie</a>
+        </div>
+        <div id="contenu" hidden>
+          <div class="kpis">
+            <div class="kpi"><b id="kpi-parties"></b><span>parties jouées</span></div>
+            <div class="kpi"><b id="kpi-meilleur"></b><span>meilleur score</span></div>
+            <div class="kpi"><b id="kpi-moyenne"></b><span>score moyen</span></div>
+          </div>
+          <h2>Évolution des 15 dernières parties</h2>
+          <div class="chart-box">
+            <canvas id="graphique" role="img" aria-label="Histogramme des scores en pourcentage, partie par partie"></canvas>
+          </div>
+          <h2>Historique</h2>
+          <div class="table-scroll">
+            <table class="history">
+              <thead><tr><th>N°</th><th>Date</th><th>Partie</th><th>Joueur</th><th>Score</th></tr></thead>
+              <tbody id="historique"></tbody>
+            </table>
+          </div>
+          <p style="margin-top: 20px;"><button type="button" class="btn danger" id="effacer">Effacer l’historique</button></p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">Quiz Climat, projet web réalisé par Hadi Assi en 2024. Questions chargées depuis un fichier XML, sans framework.</div>
+  </footer>
+</body>
+</html>

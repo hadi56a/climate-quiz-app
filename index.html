@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Climat – Testez vos connaissances sur le climat</title>
+  <meta name="description" content="Quiz interactif sur le climat, l’énergie et les gaz à effet de serre : 30 questions, 3 niveaux, minuteur et statistiques.">
+  <meta name="author" content="Hadi Assi">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cdefs%3E%3ClinearGradient id='g'%3E%3Cstop offset='0' stop-color='%2308519c'/%3E%3Cstop offset='1' stop-color='%23a50f15'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='16' cy='16' r='15' fill='url(%23g)'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/common.js" defer></script>
+</head>
+<body>
+  <div class="stripes" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"></span>Quiz Climat</a>
+      <nav class="nav" aria-label="Navigation principale">
+        <a href="index.html" aria-current="page">Jouer</a>
+        <a href="page/reviser.html">Réviser</a>
+        <a href="page/statistiques.html">Statistiques</a>
+        <span id="user-zone"></span>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero">
+      <div class="wrap">
+        <h1>Que savez-vous du climat ?</h1>
+        <p class="lead">30 questions sur le réchauffement climatique, l’énergie et les gaz à effet de serre. 20 secondes par question, une explication pour chaque réponse.</p>
+        <div class="hero-stripes" aria-hidden="true"></div>
+        <p class="hero-caption">Des bandes bleues aux bandes rouges : le réchauffement, illustré.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Jouer par lot</h2>
+        <p class="muted">Chaque lot contient 10 questions de tous les niveaux, notées sur 20.</p>
+        <ul class="choices">
+          <li><a class="choice" href="page/jeu.html?lot=1"><strong>Lot 1</strong><span>Océans, énergies renouvelables, effet de serre.</span><span class="go">Commencer</span></a></li>
+          <li><a class="choice" href="page/jeu.html?lot=2"><strong>Lot 2</strong><span>Couche d’ozone, ressources, forêts.</span><span class="go">Commencer</span></a></li>
+          <li><a class="choice" href="page/jeu.html?lot=3"><strong>Lot 3</strong><span>Déforestation, biodiversité, agriculture.</span><span class="go">Commencer</span></a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Jouer par niveau</h2>
+        <p class="muted">Toutes les questions d’un même niveau de difficulté.</p>
+        <ul class="choices">
+          <li><a class="choice" href="page/jeu.html?niveau=facile"><span class="level-dots" aria-hidden="true"><i class="on"></i><i class=""></i><i class=""></i></span><strong>Facile</strong><span>Les bases pour bien démarrer.</span><span class="go">Commencer</span></a></li>
+          <li><a class="choice" href="page/jeu.html?niveau=moyen"><span class="level-dots" aria-hidden="true"><i class="on"></i><i class="on"></i><i class=""></i></span><strong>Moyen</strong><span>Pour ceux qui suivent l’actualité.</span><span class="go">Commencer</span></a></li>
+          <li><a class="choice" href="page/jeu.html?niveau=difficile"><span class="level-dots" aria-hidden="true"><i class="on"></i><i class="on"></i><i class="on"></i></span><strong>Difficile</strong><span>Pour tester vos connaissances.</span><span class="go">Commencer</span></a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Pas encore prêt ?</h2>
+        <p class="muted">Parcourez les questions et leurs explications avant de jouer.</p>
+        <a class="btn ghost" href="page/reviser.html">Réviser les questions</a>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">Quiz Climat, projet web réalisé par Hadi Assi en 2024. Questions chargées depuis un fichier XML, sans framework.</div>
+  </footer>
+</body>
+</html>
