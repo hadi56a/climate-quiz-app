@@ -1,0 +1,8 @@
+   # Fichiers système
+   Thumbs.db
+   Desktop.ini
+   .DS_Store
+
+   # Éditeurs
+   .vscode/
+   .idea/
