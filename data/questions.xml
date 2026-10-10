@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <question>
+        <id>1</id>
+        <image>images/image1.jpg</image>
+        <contenu>La lutte contre le réchauffement climatique s'effectue à différentes échelles car :</contenu>
+        <response1>le climat est un bien commun</response1>
+        <response2>les différents niveaux d'action sont complémentaires</response2>
+        <response3>l'échelle locale est inefficace</response3>
+        <response4>je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>facile</niveau>
+        <lot>1</lot>
+        <explication>La lutte contre le réchauffement climatique s’effectue à différentes échelles car elle nécessite des actions coordonnées et adaptées aux spécificités de chaque niveau. À l’échelle mondiale, des accords internationaux fixent des objectifs communs pour réduire les émissions globales. À l’échelle nationale, les gouvernements appliquent des lois et des politiques selon les besoins et les capacités de leur pays. Au niveau local, les villes et régions mettent en œuvre des solutions spécifiques adaptées à leur territoire. Enfin, à l’échelle individuelle, chacun peut adopter des comportements écoresponsables pour réduire son empreinte carbone. Ces actions complémentaires renforcent l'efficacité de la lutte climatique</explication>
+    </question>
+    
+    <question>
+        <id>2</id>
+        <image>images/image2.jpg</image>
+        <contenu>Quelle est la principale cause de la montée du niveau des océans ?</contenu>
+        <response1>la fonte des glaces</response1>
+        <response2>la déforestation</response2>
+        <response3>l’augmentation de la pollution de l’air</response3>
+        <response4>la croissance de la population</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>moyen</niveau>
+        <lot>1</lot>
+        <explication>La principale cause de la montée du niveau des océans est le réchauffement climatique, qui entraîne deux phénomènes majeurs. D'abord, la dilatation thermique de l'eau de mer : à mesure que la température des océans augmente, l'eau se dilate, ce qui augmente son volume. Ensuite, la fonte des glaciers et des calottes glaciaires, notamment en Antarctique et au Groenland, libère d'énormes quantités d'eau douce qui viennent s'ajouter aux océans. Ces deux facteurs, combinés, contribuent principalement à l'élévation du niveau des mers observée ces dernières décennies, menaçant les côtes et les écosystèmes marins.</explication>
+
+    </question>
+
+    <question>
+        <id>3</id>
+        <image>images/image3.jpg</image>
+        <contenu>Quelle énergie est considérée comme renouvelable ?</contenu>
+        <response1>le charbon</response1>
+        <response2>le pétrole</response2>
+        <response3>l’énergie solaire</response3>
+        <response4>le gaz naturel</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>difficile</niveau>
+        <lot>1</lot>
+        <explication>Les énergies considérées comme renouvelables sont celles qui proviennent de sources naturelles capables de se renouveler à l'échelle humaine, ce qui les rend durables et non polluantes. Parmi ces énergies, on trouve l'énergie solaire, éolienne, hydraulique, géothermique et la biomasse. Ces sources d'énergie sont inépuisables à l'échelle de l'humanité, car elles dépendent de phénomènes naturels continus comme l'ensoleillement, le vent, les cycles de l'eau, ou la chaleur terrestre. Contrairement aux énergies fossiles (comme le pétrole, le charbon ou le gaz), qui se trouvent en quantités limitées et contribuent au changement climatique, les énergies renouvelables sont considérées comme plus respectueuses de l'environnement, car elles produisent moins de gaz à effet de serre et aident à lutter contre le réchauffement climatique.</explication>
+    </question>
+
+    <question>
+        <id>4</id>
+        <image>images/image4.jpg</image>
+        <contenu>Quelle activité humaine est une source importante de dioxyde de carbone (CO₂) ?</contenu>
+        <response1>la pêche</response1>
+        <response2>l’agriculture</response2>
+        <response3>les transports</response3>
+        <response4>l’industrie forestière</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>facile</niveau>  
+        <lot>1</lot>      
+        <explication>L'une des principales activités humaines responsables de l'émission de dioxyde de carbone (CO₂) est la combustion de combustibles fossiles, tels que le charbon, le pétrole et le gaz naturel. Ces combustibles sont principalement utilisés dans les secteurs de l'industrie, du transport, de la production d'électricité et du chauffage. Lorsque ces énergies sont brûlées, le carbone contenu dans ces combustibles se combine avec l'oxygène de l'air pour former du dioxyde de carbone, un gaz à effet de serre. Cette activité contribue considérablement au réchauffement climatique, car le CO₂ piège la chaleur dans l'atmosphère, augmentant ainsi la température de la planète. D'autres sources humaines de CO₂ incluent la déforestation, qui réduit la capacité des arbres à absorber le CO₂, et certaines pratiques agricoles. La réduction des émissions de CO₂ est donc essentielle pour lutter contre le changement climatique.</explication>
+    </question>
+
+    <question>
+        <id>5</id>
+        <image>images/image5.png</image>
+        <contenu>Qu’est-ce que le changement climatique ?</contenu>
+        <response1>une augmentation des tremblements de terre</response1>
+        <response2>une variation des conditions climatiques sur une longue période</response2>
+        <response3>une modification des saisons chaque année</response3>
+        <response4>une augmentation des orages</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>moyen</niveau>
+        <lot>1</lot>
+        <explication>Le changement climatique désigne les modifications à long terme du climat, principalement causées par les activités humaines comme la combustion de combustibles fossiles et la déforestation. Cela entraîne un réchauffement de la planète, modifiant les écosystèmes, augmentant le niveau de la mer et provoquant des événements climatiques extrêmes. Ses impacts affectent la biodiversité, l'agriculture, l'eau potable et la santé, nécessitant des actions mondiales pour réduire les émissions de gaz à effet de serre.</explication>
+    </question>
+
+    <question>
+        <id>6</id>
+        <image>images/image6.jpg</image>
+        <contenu>Quel gaz est un important gaz à effet de serre ?</contenu>
+        <response1>le dioxyde de carbone</response1>
+        <response2>l’azote</response2>
+        <response3>l’argon</response3>
+        <response4>l’oxygène</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>difficile</niveau>
+        <lot>1</lot>
+        <explication>Le dioxyde de carbone (CO₂) est l'un des gaz à effet de serre les plus importants. Il joue un rôle clé dans le réchauffement climatique en emprisonnant la chaleur dans l'atmosphère terrestre. Le CO₂ est principalement produit par les activités humaines telles que la combustion de combustibles fossiles (charbon, pétrole, gaz naturel) pour la production d'énergie, le transport, l'industrie et la déforestation. En augmentant la concentration de CO₂ dans l'atmosphère, ces activités perturbent l'équilibre climatique naturel de la Terre, contribuant ainsi à l'élévation des températures mondiales, ce qui entraîne des changements climatiques à l'échelle globale.</explication>
+    </question>
+
+    <question>
+        <id>7</id>
+        <image>images/image7.jpg</image>
+        <contenu>Quel pourcentage de la surface terrestre est recouvert d'eau ?</contenu>
+        <response1>30%</response1>
+        <response2>50%</response2>
+        <response3>70%</response3>
+        <response4>90%</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>facile</niveau>
+        <lot>1</lot>
+        <explication>Environ 71 % de la surface terrestre est recouverte d'eau. Cette eau se trouve principalement dans les océans, qui représentent environ 97 % de l'eau totale sur Terre. Les 3 % restants se trouvent sous forme d'eau douce, principalement dans les glaciers, les calottes polaires, les lacs, les rivières et les nappes phréatiques. Cette abondance d'eau joue un rôle crucial dans la régulation du climat, le soutien à la biodiversité et la fourniture de ressources en eau potable pour les populations humaines.</explication>
+    </question>
+
+    <question>
+        <id>8</id>
+        <image>images/image8.jpg</image>
+        <contenu>La photosynthèse est un processus par lequel :</contenu>
+        <response1>les plantes absorbent l'oxygène et produisent du dioxyde de carbone</response1>
+        <response2>les plantes convertissent la lumière en énergie chimique</response2>
+        <response3>les plantes capturent les nutriments de l'air</response3>
+        <response4>les plantes se nourrissent d'autres plantes</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>moyen</niveau>
+        <lot>1</lot>
+        <explication>La photosynthèse est un processus par lequel les plantes, les algues et certaines bactéries convertissent la lumière du soleil en énergie chimique. En utilisant l'énergie lumineuse, ces organismes transforment le dioxyde de carbone (CO₂) de l'air et l'eau (H₂O) en glucides (principalement du glucose) et en oxygène (O₂) comme sous-produit. Cette réaction se déroule principalement dans les chloroplastes des cellules végétales, où un pigment appelé chlorophylle capte l'énergie lumineuse. La photosynthèse est essentielle à la vie sur Terre, car elle constitue la base de la chaîne alimentaire et produit l'oxygène nécessaire à la respiration des animaux et des humains.</explication>
+    </question>
+
+    <question>
+        <id>9</id>
+        <image>images/image9.jpeg</image>
+        <contenu>Quelle est l'une des conséquences de l'augmentation des températures mondiales ?</contenu>
+        <response1>une augmentation des zones désertiques</response1>
+        <response2>une réduction des ressources en pétrole</response2>
+        <response3>la croissance des forêts tropicales</response3>
+        <response4>l'expansion des glaciers</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>difficile</niveau>
+        <lot>1</lot>
+        <explication>L'une des conséquences de l'augmentation des températures mondiales est la fonte des glaciers et des calottes polaires. Cette fonte contribue à l'élévation du niveau des océans, ce qui peut entraîner des inondations côtières et des dommages aux écosystèmes marins et terrestres. En outre, la fonte des glaciers affecte l'approvisionnement en eau de nombreuses régions qui dépendent de l'eau provenant de ces glaciers pour l'agriculture, la consommation et l'industrie. Cela exacerbe les problèmes liés à la gestion de l'eau et peut entraîner des pénuries dans certaines régions du monde.</explication>
+    </question>
+
+    <question>
+        <id>10</id>
+        <image>images/image10.jpg</image>
+        <contenu>Pourquoi la biodiversité est-elle importante pour les écosystèmes ?</contenu>
+        <response1>elle réduit le besoin de cultures</response1>
+        <response2>elle rend les écosystèmes plus résilients</response2>
+        <response3>elle accélère le réchauffement climatique</response3>
+        <response4>elle diminue les espèces de plantes</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>facile</niveau>
+        <lot>1</lot>  
+        <explication>La biodiversité est cruciale pour la stabilité des écosystèmes, car elle permet une meilleure adaptation aux changements environnementaux. Chaque espèce a un rôle spécifique, comme la pollinisation ou la régulation des populations. Une grande diversité maintient des services écosystémiques essentiels, comme la purification de l'air et de l'eau. La perte de biodiversité peut affaiblir ces fonctions et rendre les écosystèmes plus vulnérables aux perturbations, affectant ainsi la nature et les humains.</explication>
+    </question>
+
+    <question>
+        <id>11</id>
+        <image>images/image11.jpg</image>
+        <contenu>La couche d'ozone protège la Terre de :</contenu>
+        <response1>la pollution de l'air</response1>
+        <response2>les rayons ultraviolets du soleil</response2>
+        <response3>les tempêtes solaires</response3>
+        <response4>les météorites</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>moyen</niveau>
+        <lot>2</lot>
+        <explication>La couche d'ozone protège la Terre des rayons ultraviolets (UV) nocifs du soleil. Ces rayons UV peuvent causer des dommages à la santé humaine, comme des cancers de la peau, des cataractes et des affaiblissements du système immunitaire. Ils peuvent également nuire aux écosystèmes marins, endommager les cultures et perturber les chaînes alimentaires. La couche d'ozone joue donc un rôle essentiel dans la protection de la vie sur Terre en filtrant ces rayons dangereux.</explication>
+    </question>
+
+    <question>
+        <id>12</id>
+        <image>images/image12.jpg</image>
+        <contenu>Quelle ressource est non renouvelable ?</contenu>
+        <response1>l’énergie éolienne</response1>
+        <response2>le gaz naturel</response2>
+        <response3>l’énergie solaire</response3>
+        <response4>la biomasse</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>difficile</niveau>
+        <lot>2</lot>
+        <explication>Une ressource non renouvelable est une ressource naturelle qui ne se régénère pas à un rythme suffisamment rapide pour être utilisée de manière soutenable. Un exemple classique de ressource non renouvelable est le **pétrole**. Il se forme sur des millions d'années à partir de matières organiques, mais sa consommation rapide dépasse largement sa capacité de renouvellement. D'autres exemples incluent le **charbon**, le **gaz naturel** et les **minerais**. L'exploitation excessive de ces ressources peut entraîner leur épuisement, ce qui pose un défi majeur pour l'avenir énergétique et environnemental de la planète.</explication>
+    </question>
+
+    <question>
+        <id>13</id>
+        <image>images/image13.png</image>
+        <contenu>Quel pays est le plus grand émetteur de CO₂ dans le monde ?</contenu>
+        <response1>la Chine</response1>
+        <response2>les États-Unis</response2>
+        <response3>l’Inde</response3>
+        <response4>la Russie</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>facile</niveau>
+        <lot>2</lot>
+        <explication>La Chine est le plus grand émetteur de dioxyde de carbone (CO2) dans le monde. En raison de sa taille économique et de sa dépendance à l'égard du charbon pour la production d'énergie, la Chine émet une part importante des émissions mondiales de CO₂. Elle représente environ 28 % des émissions mondiales, ce qui est plus que tout autre pays. Bien que la Chine ait également pris des mesures pour réduire ses émissions et promouvoir les énergies renouvelables, sa forte industrialisation et sa croissance démographique contribuent à maintenir sa position en tant que principal émetteur.</explication>
+    </question>
+
+    <question>
+        <id>14</id>
+        <image>images/image14.jpg</image>
+        <contenu>La consommation d’eau est principalement liée à :</contenu>
+        <response1>l’irrigation agricole</response1>
+        <response2>les besoins domestiques</response2>
+        <response3>la consommation industrielle</response3>
+        <response4>la construction</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>moyen</niveau>
+        <lot>2</lot>   
+        <explication>La consommation d'eau est principalement liée à l'agriculture. En effet, l'agriculture utilise environ 70 % de l'eau douce disponible dans le monde, principalement pour l'irrigation des cultures. La production alimentaire nécessite une grande quantité d'eau, que ce soit pour irriguer les terres ou pour les besoins liés à l'élevage. En plus de l'agriculture, l'industrie et les besoins domestiques (comme la consommation d'eau potable, l'assainissement et les activités ménagères) représentent également des parts importantes de la consommation d'eau, mais l'agriculture reste de loin le secteur le plus demandeur.</explication>
+    </question>
+
+    <question>
+        <id>15</id>
+        <image>images/image15.jpeg</image>
+        <contenu>Quelle est la principale cause de l’acidification des océans ?</contenu>
+        <response1>les déchets plastiques</response1>
+        <response2>l'absorption de dioxyde de carbone par les océans</response2>
+        <response3>les produits chimiques agricoles</response3>
+        <response4>la surpêche</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>difficile</niveau>
+        <lot>2</lot>
+        <explication>La principale cause de l'acidification des océans est l'absorption du dioxyde de carbone (CO2) par l'eau de mer. Ce CO₂ provient principalement des activités humaines comme la combustion de combustibles fossiles. Lorsqu'il est dissous dans l'eau, il forme de l'acide carbonique, ce qui abaisse le pH de l'eau, la rendant plus acide. Cela peut nuire aux organismes marins, comme les coraux et les coquillages, qui dépendent du carbonate de calcium.</explication>
+    </question>
+
+    <question>
+        <id>16</id>
+        <image>images/image16.jpg</image>
+        <contenu>Qu’est-ce que l’effet de serre ?</contenu>
+        <response1>Un processus par lequel la chaleur du soleil est emprisonnée par des gaz dans l'atmosphère</response1>
+        <response2>Un phénomène de refroidissement global</response2>
+        <response3>Une diminution des températures à la surface de la Terre</response3>
+        <response4>Un phénomène naturel sans lien avec les activités humaines</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>facile</niveau>
+        <lot>2</lot>
+        <explication>L'effet de serre est un phénomène naturel qui permet à la Terre de maintenir une température habitable en retenant la chaleur dans l'atmosphère grâce aux gaz à effet de serre comme le dioxyde de carbone et le méthane. Ces gaz piègent la chaleur émise par la surface de la Terre et la renvoient vers elle, maintenant ainsi une température moyenne de 15°C. Cependant, les activités humaines, telles que la combustion de combustibles fossiles et la déforestation, augmentent la concentration de ces gaz, intensifiant l'effet de serre et contribuant au réchauffement climatique, ce qui a des conséquences néfastes sur le climat et les écosystèmes.</explication>
+    </question>
+
+    <question>
+        <id>17</id>
+        <image>images/image17.jpg</image>
+        <contenu>Quel est le rôle des forêts dans la régulation climatique ?</contenu>
+        <response1>Produire de l’oxygène et absorber le dioxyde de carbone</response1>
+        <response2>Augmenter les niveaux de méthane</response2>
+        <response3>Réchauffer l'atmosphère</response3>
+        <response4>Causer des pluies acides</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>moyen</niveau>
+        <lot>2</lot>
+    <explication>Les forêts jouent un rôle essentiel dans la régulation climatique en agissant comme des puits de carbone. Elles absorbent le dioxyde de carbone (CO2) de l'atmosphère pendant la photosynthèse, réduisant ainsi la quantité de gaz à effet de serre dans l'air et contribuant à la lutte contre le réchauffement climatique. De plus, les forêts influencent le cycle de l'eau en régulant l'humidité et en permettant la transpiration des plantes, ce qui aide à maintenir des conditions climatiques stables. En cas de déforestation, cette capacité à absorber le CO2 est réduite, exacerbant ainsi les effets du changement climatique.</explication>
+    </question>
+
+    <question>
+        <id>18</id>
+        <image>images/image18.png</image>
+        <contenu>Quel est le principal gaz émis par les véhicules ?</contenu>
+        <response1>Méthane</response1>
+        <response2>Oxygène</response2>
+        <response3>Dioxyde de carbone</response3>
+        <response4>Ozone</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>facile</niveau>
+        <lot>2</lot>
+        <explication>Le principal gaz émis par les véhicules est le dioxyde de carbone (CO₂). Ce gaz provient de la combustion des carburants fossiles, tels que l'essence et le diesel, dans les moteurs des véhicules. Le CO₂ est un gaz à effet de serre qui contribue au réchauffement climatique en piégeant la chaleur dans l'atmosphère. En plus du CO₂, les véhicules émettent également d'autres polluants, comme les oxydes d'azote (NOx) et les particules fines, qui ont des effets négatifs sur la qualité de l'air et la santé publique.</explication>
+    </question>
+
+    <question>
+        <id>19</id>
+        <image>images/image19.jpg</image>
+        <contenu>Pourquoi est-il important de réduire la consommation d’énergie fossile ?</contenu>
+        <response1>Pour économiser l’oxygène</response1>
+        <response2>Pour réduire les émissions de gaz à effet de serre</response2>
+        <response3>Pour augmenter les niveaux de dioxyde de carbone</response3>
+        <response4>Pour augmenter la productivité agricole</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>difficile</niveau>
+        <lot>2</lot>
+        <explication>Réduire la consommation d’énergie fossile est essentiel pour lutter contre le changement climatique, car ces énergies émettent des gaz à effet de serre comme le CO₂, qui réchauffent la planète. Elles polluent aussi l’air et l’eau, nuisant à la santé et aux écosystèmes. De plus, les énergies fossiles sont non renouvelables et finiront par s’épuiser. En réduisant leur usage, on favorise le recours à des énergies renouvelables, plus durables et moins polluantes, pour un avenir plus écologique et durable.</explication>
+    </question>
+
+    <question>
+        <id>20</id>
+        <image>images/image20.jpg</image>
+        <contenu>Quelle est la source principale d’énergie renouvelable sur Terre ?</contenu>
+        <response1>Le pétrole</response1>
+        <response2>La biomasse</response2>
+        <response3>Le soleil</response3>
+        <response4>Le charbon</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>facile</niveau>
+        <lot>2</lot>
+        <explication>La source principale d’énergie renouvelable sur Terre est le soleil. L'énergie solaire est captée par des panneaux photovoltaïques ou des centrales solaires thermiques pour produire de l’électricité ou de la chaleur. Le soleil fournit une quantité immense d'énergie qui peut être utilisée de manière durable sans épuiser les ressources naturelles. Contrairement aux énergies fossiles, l'énergie solaire est propre, ne génère pas de pollution ni de gaz à effet de serre et est disponible en abondance. Elle représente donc une solution clé pour répondre aux besoins énergétiques tout en préservant l'environnement.</explication>
+    </question>
+
+    <question>
+        <id>21</id>
+        <image>images/image21.jpg</image>
+        <contenu>Quel est un effet possible de la déforestation ?</contenu>
+        <response1>Augmentation des émissions de dioxyde de carbone</response1>
+        <response2>Augmentation des précipitations</response2>
+        <response3>Réduction des zones désertiques</response3>
+        <response4>Amélioration de la qualité de l'air</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>moyen</niveau>
+        <lot>3</lot>
+        <explication>La déforestation a des effets négatifs majeurs, notamment la perte de biodiversité, car elle détruit les habitats naturels d'innombrables espèces. Elle contribue également au changement climatique, en libérant du dioxyde de carbone (CO₂) dans l'atmosphère, ce qui intensifie l'effet de serre. En détruisant les forêts, on perturbe des équilibres écologiques essentiels pour la planète.</explication>
+    </question>
+
+    <question>
+        <id>22</id>
+        <image>images/image22.jpg</image>
+        <contenu>Quel secteur consomme le plus d’eau douce ?</contenu>
+        <response1>Industrie</response1>
+        <response2>Agriculture</response2>
+        <response3>Domestique</response3>
+        <response4>Transport</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>difficile</niveau>
+        <lot>3</lot>
+        <explication>Le secteur agricole est le plus grand consommateur d'eau douce, utilisant environ 70 % de cette ressource pour l'irrigation des cultures et l'élevage. Une gestion durable de l'eau dans l'agriculture est cruciale pour éviter l'épuisement des ressources en eau douce, surtout face aux défis posés par les changements climatiques.</explication>
+    </question>
+
+    <question>
+        <id>23</id>
+        <image>images/image23.jpg</image>
+        <contenu>Quelle est une conséquence directe de l'acidification des océans ?</contenu>
+        <response1>Diminution de la biodiversité marine</response1>
+        <response2>Augmentation des tempêtes</response2>
+        <response3>Augmentation de la température des océans</response3>
+        <response4>Élévation du niveau des océans</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>moyen</niveau>
+        <lot>3</lot>
+        <explication>L'acidification des océans, causée par l'absorption du dioxyde de carbone (CO₂), réduit le pH de l'eau, ce qui nuit à la formation de coquilles et de squelettes chez les organismes marins comme les coraux, les mollusques et les crustacés. Cela perturbe les écosystèmes marins, affecte la biodiversité et peut impacter les industries liées à la pêche et au tourisme.</explication>
+    </question>
+
+    <question>
+        <id>24</id>
+        <image>images/image24.jpg</image>
+        <contenu>Quel type d’énergie est le plus souvent utilisé pour générer de l’électricité ?</contenu>
+        <response1>Énergie solaire</response1>
+        <response2>Énergie éolienne</response2>
+        <response3>Énergie fossile</response3>
+        <response4>Énergie géothermique</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>facile</niveau>
+        <lot>3</lot>
+        <explication>L'énergie thermique, principalement issue des combustibles fossiles (charbon, gaz naturel, pétrole), est la principale source utilisée pour générer de l'électricité. Cette énergie chauffe de l'eau pour produire de la vapeur, qui fait tourner des turbines générant de l'électricité. Cependant, les énergies renouvelables comme l'hydraulique, l'éolien et le solaire gagnent en popularité pour leur capacité à produire de l'électricité de manière plus durable, sans émettre de gaz à effet de serre.</explication>
+    </question>
+
+    <question>
+        <id>25</id>
+        <image>images/image25.jpg</image>
+        <contenu>Qu'est-ce que la biodiversité ?</contenu>
+        <response1>La diversité des espèces sur Terre</response1>
+        <response2>La quantité de carbone dans l'atmosphère</response2>
+        <response3>La variation des températures climatiques</response3>
+        <response4>Le nombre de zones désertiques</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>energie</thematique>
+        <niveau>moyen</niveau>
+        <lot>3</lot>
+        <explication>La biodiversité désigne la diversité des espèces, des écosystèmes et des processus écologiques sur Terre. Elle est essentielle pour le bon fonctionnement des écosystèmes et soutient la vie humaine en régulant le climat, fournissant de la nourriture et en maintenant les équilibres naturels. Sa préservation est cruciale pour la survie de toutes les formes de vie.</explication>
+    </question>
+
+    <question>
+        <id>26</id>
+        <image>images/image26.jpg</image>
+        <contenu>Quel est l’impact de la fonte des glaciers ?</contenu>
+        <response1>Élévation du niveau de la mer</response1>
+        <response2>Diminution des zones désertiques</response2>
+        <response3>Augmentation des précipitations</response3>
+        <response4>Raffermissement des calottes polaires</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>difficile</niveau>
+        <lot>3</lot>
+        <explication>La fonte des glaciers contribue à l'élévation du niveau des mers, menaçant les zones côtières et perturbant l'approvisionnement en eau pour les humains et la faune. Elle reflète également le réchauffement climatique, affectant les écosystèmes et la biodiversité.</explication>
+    </question>
+
+    <question>
+        <id>27</id>
+        <image>images/image27.jpg</image>
+        <contenu>Quelle activité contribue au réchauffement climatique ?</contenu>
+        <response1>La culture de plantes indigènes</response1>
+        <response2>La plantation d'arbres</response2>
+        <response3>La combustion de combustibles fossiles</response3>
+        <response4>L'utilisation de l'énergie solaire</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <thematique>gaz</thematique>
+        <niveau>facile</niveau>
+        <lot>3</lot>
+        <explication>L'activité humaine, principalement la combustion des combustibles fossiles, contribue au réchauffement climatique en émettant des gaz à effet de serre comme le dioxyde de carbone (CO₂). Ces gaz piègent la chaleur dans l’atmosphère, entraînant une élévation des températures mondiales et des phénomènes climatiques extrêmes. La déforestation et l’agriculture intensive accentuent également ce phénomène.</explication>
+    </question>
+
+    <question>
+        <id>28</id>
+        <image>images/image28.jpg</image>
+        <contenu>Quelles sont les principales sources de dioxyde de carbone ?</contenu>
+        <response1>Les industries et les transports</response1>
+        <response2>Les forêts</response2>
+        <response3>Les centrales solaires</response3>
+        <response4>Les éoliennes</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <thematique>climat</thematique>
+        <niveau>difficile</niveau>
+        <lot>3</lot>
+        <explication>Les principales sources de dioxyde de carbone (CO₂) proviennent de la combustion de combustibles fossiles pour l'énergie, les transports et l'industrie, ainsi que de la déforestation et de l'agriculture intensive. Ces activités libèrent du CO₂ dans l'atmosphère, contribuant ainsi au réchauffement climatique en augmentant les gaz à effet de serre.</explication>
+    </question>
+    <question>
+    <id>29</id>
+    <image>images/image29.jpg</image>
+    <contenu>Quel est l'impact de l'agriculture intensive sur les sols ?</contenu>
+    <response1>Elle enrichit les sols en nutriments</response1>
+    <response2>Elle entraîne l'épuisement des sols</response2>
+    <response3>Elle augmente la biodiversité du sol</response3>
+    <response4>Elle n'a aucun impact sur les sols</response4>
+    <bonne_reponse>2</bonne_reponse>
+    <point>2</point>
+    <thematique>energie</thematique>
+    <niveau>difficile</niveau>
+    <lot>3</lot>
+    <explication>L'agriculture intensive appauvrit les sols en épuisant leurs nutriments, favorise l'érosion et perturbe les écosystèmes en raison de l'usage excessif de produits chimiques, réduisant ainsi leur fertilité à long terme.</explication>
+</question>
+
+<question>
+    <id>30</id>
+    <image>images/image30.jpg</image>
+    <contenu>Quel est un moyen efficace de réduire les déchets plastiques ?</contenu>
+    <response1>Utiliser des sacs réutilisables</response1>
+    <response2>Brûler les plastiques</response2>
+    <response3>Enterrer les déchets plastiques</response3>
+    <response4>Augmenter la production de plastiques</response4>
+    <bonne_reponse>1</bonne_reponse>
+    <point>2</point>
+    <thematique>gaz</thematique>
+    <niveau>facile</niveau>
+    <lot>3</lot>
+    <explication>Un moyen efficace de réduire les déchets plastiques est de privilégier l'utilisation de matériaux réutilisables, comme les sacs en tissu ou les contenants en verre. Il est également essentiel de promouvoir le recyclage pour transformer les plastiques usagés en nouveaux produits. Enfin, réduire la production de plastiques à usage unique par des politiques et des comportements responsables est crucial.</explication>
+</question>
+
+</data>

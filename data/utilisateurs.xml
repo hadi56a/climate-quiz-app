@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Compte de démonstration. Les mots de passe sont stockés sous forme d'empreinte SHA-1. -->
+<utilisateurs>
+    <utilisateur>
+        <id>1</id>
+        <username>demo</username>
+        <password>b1caa3e522eaec9e066c3a23b47e895e9332085e</password>
+    </utilisateur>
+</utilisateurs>
